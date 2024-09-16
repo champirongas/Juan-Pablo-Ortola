@@ -4,6 +4,8 @@
 
 Actualmente tengo 27 años y estoy estudiando una formación profesional en ASIR (Administración de Sistemas Informáticos en Red).
 
+***
+
 #### 🎓 Estudios
   | Centro                            | Estudios                                | Años            |
 |------------------------------------|-----------------------------------------|-----------------|
@@ -11,10 +13,14 @@ Actualmente tengo 27 años y estoy estudiando una formación profesional en ASIR
 | ***Universidad Carlos III de Madrid***| 3 años de Ingeniería Eléctrica           | 2015 - 2018     |
 | ***U-TAD***                          | Formación Profesional de ASIR            | 2023 - presente |
 
+***
+
 #### 👔 Experiencia
   - ***FREMAP*** / Administrativo CTT
     - Gestión de expedientes de accidentes de tráfico mediante aplicación corporativa y contacto con 
 aseguradoras y/o pacientes.
+
+***
 
 #### 🛠️ Habilidades
   - Facilidad para trabajar en equipo adquirida por experiencia laboral y la participación en competiciones
@@ -29,10 +35,14 @@ aseguradoras y/o pacientes.
   - Familiaridad en entorno Android para ordenadores. 
   - Buena comunicación verbal y capacidad de adaptación.
 
+***
+
 #### 🎮 Hobbies
   - Videojuegos
   - Rugby
   - LEGO
+
+***
 
 #### 📞 Contactos
   - LinkedIn: https://www.linkedin.com/feed/
